@@ -1,0 +1,67 @@
+/*!
+ * Start Bootstrap - Small Business (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    background-color: #B6C6D7;
+}
+h1{
+  font-family: 'Crete Round', serif;
+  border-bottom: 2px solid #eee;
+}
+}
+h2{
+  font-family: 'Crete Round', serif;
+
+}
+.navbar{
+  background-color: #504C9B;
+}
+.navbar-inverse .navbar-nav>li>a{
+  color: #eee;
+  font-family: 'Crete Round', serif;
+}
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+.navbar-inverse .navbar-nav>li>a{
+  font-size: 18px;
+}
+
+footer {
+    padding: 30px 0;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+    }
+.btn-primary{
+  background-color: #504c9b;
+}
+.number{
+  font-size: 30px;
+  background-color: #504C9B;
+  color: #eee;
+}
+.serve-box{
+  border: 2px solid #eee;
+}
+.btn-default{
+  background-color: #504c9b;
+  color: #eee;
+}
+.contact{
+  font-size: 18px
+}
