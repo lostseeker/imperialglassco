@@ -6,7 +6,7 @@
 
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-    background-color: #B6C6D7;
+    background-image: url("file:///C:/Users/Alfred%20Lystad/Desktop/web/imperialglassco/img/background.jpg");
 }
 h1{
   font-family: 'Crete Round', serif;
@@ -64,4 +64,13 @@ footer {
 }
 .contact{
   font-size: 18px
+}
+.thumbnail{
+  height: 400px
+}
+.thumbnail a>img, .thumbnail>img{
+  height: 200px;
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img{
+  height: 200px;
 }
