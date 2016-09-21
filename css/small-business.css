@@ -4,9 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-    background-image: url("file:///C:/Users/Alfred%20Lystad/Desktop/web/imperialglassco/img/background.jpg");
+    background: url(../img/background.jpg);
 }
 h1{
   font-family: 'Crete Round', serif;
